@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/energy-needs-assessment-toolkit/mitres_ec-004_s17.jpg
+file: /ol-ocw-studio-app/courses/res-ec-004-energy-needs-assessment-toolkit/mitres_ec-004_s17.jpg
 file_size: 1033241
 file_type: image/jpeg
 image_metadata:
